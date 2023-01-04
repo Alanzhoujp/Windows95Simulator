@@ -1,8 +1,12 @@
 # Windows 95 Simulator
 
-Windows 95 Simulator created in Java
+Name: Windows 95 Simulator
 
-Independent Java Project
+Language: Java
+
+Type: Independent Project
+
+IDE: Eclipse 2021.6
 
 Author: Alan Zhou
 
