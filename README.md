@@ -1,4 +1,4 @@
-# Windows95Simulator
+# Windows 95 Simulator
 
 Windows 95 Simulator created in Java
 
