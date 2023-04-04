@@ -10,7 +10,7 @@ IDE: Eclipse 2021.6
 
 Author: Alan Zhou
 
-Project Description:
+Project Description: A Windows 95 Simulator with user interactive interface
 
 Note: The source code of this program is embedded in 2022.12.25.txt uploaded to this repository. Copyright infringement is subject to legal prosecution. 
 
